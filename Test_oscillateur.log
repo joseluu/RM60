@@ -1,0 +1,26 @@
+Circuit: * C:\Users\josel\hobby\dev_RM60\Test_oscillateur.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Oct 27 21:39:14 2023
+Total elapsed time: 10.089 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4340360
+traniter = 4340350
+tranpoints = 1587957
+accept = 1136641
+rejected = 451316
+matrix size = 14
+fillins = 16
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 1.74 KB object code size  0.4/0.4/[0.3]
+Matrix Compiler2: 1.43 KB object code size  0.2/0.4/[0.2]
+
